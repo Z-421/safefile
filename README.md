@@ -14,7 +14,7 @@ Keep your files safe with military-grade encryption — just one import away!
 ## 🚀 Installation
 
 ```bash
-go get github.com/yourusername/safefile
+go get github.com/Z-421/safefile
 ```
 
 ## 🛠 Usage
