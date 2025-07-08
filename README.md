@@ -19,5 +19,5 @@ go get github.com/Z-421/safefile
 
 ## 🛠 Usage
 ```bash
-import "github.com/yourusername/safefile"
+import "github.com/Z-421/safefile"
 ```
